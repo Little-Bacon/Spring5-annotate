@@ -1,6 +1,6 @@
 package TestAnnotation;
 
-import config.AppConfig;
+
 import example.bean.User;
 import example.injection.Catagory;
 import example.injection.UserService;
